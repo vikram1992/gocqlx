@@ -17,4 +17,5 @@ require (
 )
 
 replace github.com/gocql/gocql => github.com/scylladb/gocql v1.14.4
-replace github.com/scylladb/go-reflectx => github.com/vikram1992/go-reflectx v1.0.1
+
+replace github.com/scylladb/go-reflectx => github.com/vikram1992/go-reflectx v0.0.0-20250321123723-3adddb4bfbe0
